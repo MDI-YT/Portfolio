@@ -1,0 +1,52 @@
+{
+	"title": "Experience",
+	"subtitle": "Internship and Volunteership",
+	"description":
+		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+		"title": "Internships",
+      	"experiences": [
+			{
+				"title": "Junior Web Developer",
+				"company": "Failsafe Hiring",
+				"company_url": "https://www.failsafehiring.com/",
+				"logo_path": "failsafe-logo.svg",
+				"duration": "DEC 2021 - MAY 2022",
+				"location": "Chennai, Tamilnadu",
+				"description":
+				"I have worked with Failsafe Hiring for developing E-learning WebApp. I played a key role in developing the frontend and backend of the application. I also helped to deploy the application on Server.",
+				"color": "#0879bf"
+			},
+			{
+				"title": "Software Engineering Intern",
+				"company": "KKR Engineering",
+				"company_url": "https://www.delhivery.com/",
+				"logo_path": "delhivery_logo.png",
+				"duration": "Jan 2021 - Mar 2021",
+				"location": "Chennai, Tamilnadu",
+				"description":
+				"I had been playing a major role in making the custom software to scan and extract text from handwritten documents.Working with a team to convert all written documents into digitized format.",
+				"color": "#ee3c26"
+			}
+			]
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": [
+				{
+					"title": "CodeChef Volunteer - President",
+					"company": "CodeChef",
+					"company_url": "https://www.codechef.com/",
+					"logo_path": "cc-logo.svg",
+					"duration": "June 2020 - PRESENT",
+					"location": "Chennai, Tamilnadu",
+					"description":
+					  "I got an opportunity to lead a CodeChef Chapter of my College as a President.",
+					"color": "#4285F4"
+				  }
+			]
+		}
+	]
+}
